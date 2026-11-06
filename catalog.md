@@ -4,7 +4,7 @@
 
 ---
 
-[English](english.md) - Department chair: <github username>
+[English](english.md) - Department chair: <au1rey>
 
 [Economics](economics.md) - Department chair: <github username>
 
