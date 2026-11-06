@@ -8,7 +8,7 @@
 
 [Economics](economics.md) - Department chair: <github username>
 
-[Geography](geography.md) - Department chair: <github username>
+[Geography](geography.md) - Department chair: 3lenavan
 
 [History](history.md) - Department chair: <github Ranaah05>
 
