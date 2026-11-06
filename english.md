@@ -1,10 +1,10 @@
 # English
 
-**ENGL300** _Gender & Text_
-> Analyzation of gender and feminist theory in text + writing.
-
 **ENGL250** _Cyberpunk & Dystopia_
 > Dystopia in cyber-tech settings.
+
+**ENGL300** _Gender & Text_
+> Analyzation of gender and feminist theory in text + writing.
 
 **ENGL042** _Speech Writing_
 > Writing and presenting class.
