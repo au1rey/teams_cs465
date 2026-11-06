@@ -12,6 +12,6 @@
 
 [History](history.md) - Department chair: <github Ranaah05>
 
-[Mathematics](math.md) - Department chair: <github username>
+[Mathematics](math.md) - Department chair: PrithviGhale
 
 ---
